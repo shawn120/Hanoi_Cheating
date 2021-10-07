@@ -1,4 +1,9 @@
 '''
+A cheating tool for the game of Tower of Hanoi.
+Author: Shawn
+Github: shawn120
+Link: https://github.com/shawn120/hanoi_cheating
+
 Go to the website below to try Tower of Hanoi Game!
 https://www.mathsisfun.com/games/towerofhanoi.html
 '''
