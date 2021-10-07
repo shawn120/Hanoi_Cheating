@@ -6,7 +6,7 @@ Basic recursion practice.
 
 Input the numbers of disks, return every moves to complete the task within the minimum moves.
 
-Link of the game of Tower of Hanoi
+You can play the game of Tower of Hanoi on:
 
 https://www.mathsisfun.com/games/towerofhanoi.html
 
