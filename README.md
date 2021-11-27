@@ -1,4 +1,4 @@
-# hanoi_cheating
+# Hanoi_Cheating
 
 A cheating tool for the game of Tower of Hanoi.
 
